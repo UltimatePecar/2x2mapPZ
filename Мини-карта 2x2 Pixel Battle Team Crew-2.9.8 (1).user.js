@@ -5,7 +5,7 @@
 // @description  Overlay-like tool for pixelzone.io
 // @author       meatie, modified by Yoldaş Pisicik. URL adaptive by Edward Scorpio. 2x2 Designed by MDOwlman.
 // @match        https://pixelzone.io/*
-// @homepage     https://github.com/EdwardScorpio/pz-map/
+// @homepage     https://github.com/UltimatePecar/2x2mapPZ
 // @updateURL    
 // @downloadURL  https://raw.githubusercontent.com/EdwardScorpio/pz-map/main/PBteam-map-2.0.user.js
 // @icon         https://i.ibb.co/C5S0R1bV/Square-Logo2x2.png
